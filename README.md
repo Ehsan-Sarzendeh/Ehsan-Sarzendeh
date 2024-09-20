@@ -1,4 +1,4 @@
-## Hi there, I'm Ehsan 👋  
+# Hi there, I'm Ehsan 👋  
   
 
 <a href="https://github.com/Ehsan-Sarzendeh" target="_blank">
@@ -22,13 +22,13 @@
 
 ### Glad to see you here!
   
-I'm a Passionate Backend Developer with over three years of experience in building scalable applications using the .NET framework. I have a strong foundation in software development principles and a commitment to writing clean, efficient code. Currently, I am focused on enhancing my skills and exploring new technologies to stay ahead in the ever-evolving tech landscape.  
+I'm a passionate Backend Developer with over three years of experience in building scalable applications using the .NET Core. I have a strong foundation in software development principles and a commitment to writing clean, efficient code. Currently, I am focused on enhancing my skills and exploring new technologies to stay ahead in the ever-evolving tech landscape.  
   
 
 <br/>  
 
 
-## Languages and Tools  
+## 💻 Languages and Tools  
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
@@ -41,7 +41,7 @@ I'm a Passionate Backend Developer with over three years of experience in buildi
 <br/>  
 
 
-## Github Stats  
+## 📊 Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ehsan-Sarzendeh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
@@ -52,3 +52,10 @@ I'm a Passionate Backend Developer with over three years of experience in buildi
 
 </td></tr></table>
 <br />
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ehsan-Sarzendeh&theme=default&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ehsan-Sarzendeh&icon=0&color=12)](https://visitcount.itsvg.in)
